@@ -6,4 +6,6 @@
 
 ## How to Use it
   
-&nbsp;&nbsp;&nbsp;&nbsp;Download and run it on google colab. And has to pre-download the dataset in Kaggle : https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals
+&nbsp;&nbsp;&nbsp;&nbsp;Download and run it on google colab. 
+
+Has to pre-download the dataset in Kaggle : https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals
